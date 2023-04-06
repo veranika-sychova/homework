@@ -7,6 +7,10 @@
     <groupId>teachmeskills</groupId>
     <artifactId>veranika.homework</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
 
-    
+
 </project>
